@@ -1,4 +1,4 @@
-# Ejercicio 3 : Contact Page
+# Ejercicio 2 : Simple Article Listing
 
 ---
 
@@ -19,7 +19,7 @@ Deberás desarrollar una página web con HTML y CSS que muestre un listado de ar
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
+Repositorio en GitHub: https://github.com/naomiaraiza/Tarea2-ArticleListing.git
 Deploy: [LINK](http://yomidev.github.io/newsletter/)
 ---
 
